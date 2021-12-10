@@ -1,0 +1,19 @@
+{
+  "name": "@xmclallen/xavier-hello-world-package-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmclallen/xavier-hello-world-package-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xmclallen/xavier-hello-world-package-test/issues"
+  },
+  "homepage": "https://github.com/xmclallen/xavier-hello-world-package-test#readme"
+}
