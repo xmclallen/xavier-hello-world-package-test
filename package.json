@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xmclallen/xavier-hello-world-package-test/issues"
   },
-  "homepage": "https://github.com/xmclallen/xavier-hello-world-package-test#readme"
+  "homepage": "https://github.com/xmclallen/xavier-hello-world-package-test#readme",
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  }
 }
